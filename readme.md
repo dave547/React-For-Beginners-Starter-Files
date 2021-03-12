@@ -72,4 +72,4 @@ RewriteRule . /index.html [L]
 ```
 
 left off
-https://courses.wesbos.com/account/access/5de5c68e260cbd14664c0b5e/view/257749884
+https://courses.wesbos.com/account/access/5de5c68e260cbd14664c0b5e/view/257750327
